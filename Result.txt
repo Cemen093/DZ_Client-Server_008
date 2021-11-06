@@ -1,0 +1,5 @@
+Выучить модель OSI  и коды HTTP
+
+Выучил.
+http://bourabai.kz/dbt/protocols.htm
+https://developer.mozilla.org/ru/docs/Web/HTTP/Status
